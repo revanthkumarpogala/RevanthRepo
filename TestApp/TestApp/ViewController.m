@@ -25,6 +25,6 @@
 }
 
 -(void)testMethod {
-    
+    NSLog(@"Jayachandra");
 }
 @end
