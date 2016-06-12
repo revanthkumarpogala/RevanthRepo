@@ -12,6 +12,7 @@
 
 @end
 
+
 @implementation ViewController
 
 - (void)viewDidLoad {
@@ -25,6 +26,6 @@
 }
 
 -(void)testMethod {
-    
+    NSLog(@"test method");
 }
 @end
